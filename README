@@ -1,0 +1,15 @@
+Cellular traces gathered in NYC'19 in follwoing three main conditions and used in the evaluation of Orca paper.
+1- While cellular user was walking in Times Square
+2- While cellular user was in stationary position (Home & Time Square)
+3- While cellular user was riding bus/taxi/...
+
+You can find information about traces in trace-info file
+
+{For a simple environment setup in Mahimahi, you can set each trace for downlink and use wired48 for uplink and have a one-way-delay of 10ms with queue size=100pkt.}
+
+
+Please refer to 'Soheil Abbasloo, Chen-Yu Yen, H. Jonatahn Chao. Classic Meets Modern: a Pragmatic Learning-Based Congestion Control for the Internet. In Proc ACM SIGCOMM 2020' in case you use these traces.
+
+
+Please let us know if you have any questions <ab.soheil   AT   NYU.EDU>
+
